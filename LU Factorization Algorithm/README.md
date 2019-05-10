@@ -3,7 +3,7 @@ This function determines the LU Factorization of a square matrix with the use of
 # Inputs:
 A - Coefficient Matrix (square)
 
-#Outputs:
+# Outputs:
 L - Lower Triangular Matrix  
 U - Upper Triangular Matrix  
 P - Pivot Matrix  
